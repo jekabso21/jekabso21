@@ -12,4 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [e-mail](jekabsoss21@gmail.com) or [discord](retro#7138)
 - ⚡ Fun fact: ... I am 16 year old teen who is learning to code
+
 -->
