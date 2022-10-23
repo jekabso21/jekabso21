@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jekabso21" alt="jekabso21" /></a> </p>
 
-- 🌱 I’m currently learning **react, typescript and C#**
+- 🌱 I’m currently learning **react, typescript and Python**
 
 - 💬 Ask me about **lua, js,**
 
