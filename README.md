@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jekabso21" alt="jekabso21" /></a> </p>
 
-- 🌱 I’m currently learning **react, typescript and Python**
+- 🌱 I’m currently learning **React, Typescript and Python**
 
 - 💬 Ask me about **lua, js,**
 
@@ -27,10 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jekabso21&show_icons=true&locale=en" alt="jekabso21" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jekabso21&" alt="jekabso21" /></p>
-
-<p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=11147618695&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=11147618695&cover_image=true&theme=default&bar_color=e3e3e3&bar_color_cover=true">
-  </a>
-</p>
 
