@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Jekabs</h1>
 <h3 align="center">A Student who is learning computer science</h3>
 
+----------
+[Here is my personal portfolio if you want to know me.](jekabso21.github.io/Portfolio/)
+
+
+
+
+-----------
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jekabso21&show_icons=true&locale=en" alt="jekabso21" /></p>
 
 ----------
