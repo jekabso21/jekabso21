@@ -2,7 +2,7 @@
 <h3 align="center">A Student who is learning computer science</h3>
 
 ----------
-[Here is my personal portfolio if you want to know me.](jekabso21.github.io/Portfolio/)
+Here is my personal portfolio if you want to know me. [jekabso21.github.io/Portfolio/](jekabso21.github.io/Portfolio/)
 
 
 
