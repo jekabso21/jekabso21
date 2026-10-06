@@ -1,50 +1,15 @@
-# Hi 👋, I'm Retro21
+# 💫 About Me:
+ABOUT ME<br><br>Name: Jekabs<br>GitHub: jekabso21 (also known as Retro21)<br>Location: Riga, Latvia<br>Contact: contact@jekabsoss.com, linkedin.com/in/jekabs-oss-099511238<br><br>SUMMARY<br>I'm a software engineer from Latvia who likes working close to the hardware. My main focus is embedded and systems software: code that talks to real devices, runs in real time and has to keep working when conditions get rough. I also build desktop applications and the occasional web or mobile app when a project needs one.<br><br>Most of my work is in C++ (17/20) with Qt 6 and QML. I use Rust for small, fast utilities, Go for backend services, Python for tooling and automation, and TypeScript with React on the web side.<br><br>WHAT I'M INTERESTED IN<br>- Embedded Linux and low-level software<br>- Simulation and software-in-the-loop testing<br>- Real-time video and telemetry pipelines<br>- Desktop apps with Qt/QML<br>- Linux audio and desktop tooling<br>- Self-hosting and infrastructure<br>- Things that fly<br><br>HOW I WORK<br>Linux is my daily driver (Fedora on Wayland with a tiling compositor), and a lot of my side projects start as tools I wished existed and ended up writing myself. I care about clean builds, tests and tooling: CMake presets, sanitizers, clang-format, clang-tidy and pre-commit hooks are part of how I set up projects. I'm still learning constantly and I'm open about that in my repos.<br><br>FEATURED PROJECTS<br>1. Helix (github.com/jekabso21/Helix)<br>   A graphical software-in-the-loop flight simulator. Real flight controller firmware runs on the PC while the simulator provides physics, sensors, environment, camera video output and failure injection, plus test automation around it. Early development. C++, Godot, Python.<br><br>2. wavemux (github.com/jekabso21/wavemux)<br>   A Linux desktop audio mixer inspired by SteelSeries Sonar. I built it after switching from Windows to Linux and not finding an alternative. It creates virtual channels (Game, Chat, Media, AUX) and two separate output mixes, one for headphones and one for streaming. A background daemon handles routing through PipeWire, and a Qt/QML app controls it over DBus. C++17, Qt 6.<br><br>3. download_organizer (github.com/jekabso21/download_organizer)<br>   A small utility that sorts common file types into their proper folders. Rust.<br><br>OUTSIDE OF CODE<br>I self-host most of my own infrastructure, including git, mail and networking. I also do a lot of 3D printing.<br><br>TONE FOR THE README<br>Direct and technical, low on buzzwords. No "passionate developer" phrasing. Short sentences, minimal emojis, no long dashes.
 
-<table>
-  <tr>
-    <td valign="top">
-      <h3>A passionate full stack developer working all around</h3>
-      <ul>
-        <li>🔭 Currently working on <b>libraries and other small projects</b></li>
-        <li>📫 Reach me at <b>contact@jekabsoss.com</b></li>
-      </ul>
-    </td>
-    <td>
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jekabso21&layout=compact&theme=onedark" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jekabs-oss-099511238/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/OssJekabs) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jekabsoss21@gmail.com) 
 
-### Connect with me
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![PocketBase](https://img.shields.io/badge/pocketbase-%23b8dbe4.svg?style=for-the-badge&logo=Pocketbase&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white) ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=jekabso21&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=jekabso21&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=jekabso21&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<p align="left">
-  <a href="https://github.com/jekabso21"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" width="40" /></a>
-  <a href="https://linkedin.com/in/jekabs-oss-099511238"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" /></a>
-</p>
-
----
-
-### Languages & Tools
-
-| Category | Technologies |
-|----------|-------------|
-| **Languages** | <img src="https://skillicons.dev/icons?i=cpp,c,rust,go,py,ts,js" alt="Languages" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" alt="Frontend" /> |
-| **Backend & Frameworks** | <img src="https://skillicons.dev/icons?i=nodejs,express,qt,electron" alt="Backend" /> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" alt="Databases" /> |
-| **DevOps & Infrastructure** | <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,grafana" alt="DevOps" /> |
-| **Embedded** | <img src="https://skillicons.dev/icons?i=arduino" alt="Embedded" /> |
-| **Testing & Tools** | <img src="https://skillicons.dev/icons?i=jest,cypress,postman,vscode" alt="Tools" /> |
-
-> ⚠️ *These are tools and technologies I have worked with — not necessarily ones I use daily or know by heart.*
-
----
-
-### Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=jekabso21&show_icons=true&theme=onedark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=jekabso21&theme=onedark" alt="GitHub Streak" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
